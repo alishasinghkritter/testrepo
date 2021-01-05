@@ -2,7 +2,7 @@ public class AddTwoIntegers {
 
     public static void main(String[] args) {
         
-        int first = 51;
+        int first = 10;
         int second = 20;
 
         System.out.println("Enter two numbers: " + first + " " + second);
@@ -10,7 +10,8 @@ public class AddTwoIntegers {
 
         System.out.println("The sum is : " + sum);
     	
-	System.out.println("The sub is : " + (first-second);
+	System.out.println("The sub is : " + (first-second));
+	System.out.println("The multiply is : " +(first*second));
 	}
 }
 
