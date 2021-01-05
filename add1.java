@@ -9,6 +9,8 @@ public class AddTwoIntegers {
         int sum = first + second;
 
         System.out.println("The sum is: " + sum);
-    }
+    	
+	System.out.println("The multiply is : " +(first*second));
+	}
 }
 
